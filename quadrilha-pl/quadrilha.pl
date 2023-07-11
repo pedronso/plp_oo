@@ -1,6 +1,7 @@
 :- discontiguous amava/2.
 
 aventureira(dora).
+aventureira(botas).
 
 amava(carlos, dora).
 amava(dora, lia).
